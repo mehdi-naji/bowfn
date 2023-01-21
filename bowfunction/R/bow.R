@@ -1,3 +1,3 @@
 bow <- function(x){
-  x*2
+     x*2
 }
